@@ -1,0 +1,6 @@
+{
+  "name": "B-FLARE",
+  "description": "Butterfly-based Leverage & Activation Recommendation Engine — Find the people who can start the network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
